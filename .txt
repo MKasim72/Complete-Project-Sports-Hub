@@ -1,0 +1,5 @@
+// selectedProductContainer.appendChild(productElement);
+    
+      // selectedProduct.forEach(element => {
+      //   document.getElementById('cart-items').innerHTML += `<div class="card-body" style="background-color: black;background-image: radial-gradient(black 10px,red 10px);background-size: 15px 15px;">
+      
